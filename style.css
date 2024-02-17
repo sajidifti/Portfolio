@@ -384,6 +384,36 @@ form .btn2 {
   color: #ff004f;
 }
 
+.links {
+  padding: 20px !important;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  /* margin-bottom: 100px; */
+}
+
+.links a {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 10px;
+  position: relative;
+}
+
+.links a::after {
+  content: "";
+  width: 0;
+  height: 3px;
+  background: #ff004f;
+  margin: auto;
+  display: block;
+  transition: 0.5s;
+}
+
+.links a:hover::after {
+  width: 100%;
+}
+
 /* responsive */
 nav .fas {
   display: none;

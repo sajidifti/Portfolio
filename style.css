@@ -390,6 +390,9 @@ nav .fas {
 }
 
 @media only screen and (max-width: 600px) {
+  body{
+    max-width: 100vw;
+  }
   #header {
     background-image: url(images/pp2.png);
   }

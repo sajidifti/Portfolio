@@ -1,5 +1,5 @@
 # Portfolio
 
-## *Work In Progress*
+Portfolio of Sajid Anam Ifti.
 
-Portfolio of Sajid Anam Ifti
+Please visit https://sajidifti.com
